@@ -2,9 +2,40 @@
     background-color: #878787;
 }
 
+.fotofooxi{
+height: 300px;
+width: 300px;
+margin-left: 470px;
+margin-top: 20px;
+border-radius: 275px;
+position: absolute;
+}
+
+.textofooxi{
+    text-align: center;
+    font-family: Verdana;
+    color: #ffffff;
+    margin-top: 350px;
+    margin-left: 505px;
+    position: absolute;
+}
+
+.textofooxi2{
+    text-align: center;
+    font-family: Verdana;
+    color: #ffffff;
+    margin-top: 400px;
+    margin-left: 325px;
+    position: absolute;
+}
+
+.aspas{
+    
+}
+
 .topo{
     background-color: #878787;
-    height: 15%;
+    height: 16%;
     width: 100%;
     position: absolute;
     top:0;
@@ -21,7 +52,7 @@
 }
 
 .menu{
-    background-color:#f47634;
+    background-color:#475047;
     height:85%;
     width:12%;
     left:0;
@@ -30,7 +61,7 @@
 }
 
 .rodape{
-    background-color:#ff0000;
+    background-color:#475047;
     height:5%;
     width:100%;
     bottom:0;
@@ -39,7 +70,7 @@
 }
 
 .corpo{
-    background-color:#dd7138;
+    background-color:#132624;
     height:85%;
     width:88%;
     right:0;
@@ -57,6 +88,13 @@
 }
 
 .textomenu{
+    text-align: center;
+    vertical-align: center;
+    font-family: Verdana;
+    color: #ffffff;
+}
+
+.textoindex{
     text-align: center;
     font-family: Verdana;
     color: #ffffff;
